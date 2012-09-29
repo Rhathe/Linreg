@@ -12,6 +12,7 @@
 #include <math.h>
 #include <fstream>
 #include <string>
+#include <string.h>
 #include <cstdlib>
 #include <ctime>
 #define PI 3.141592
